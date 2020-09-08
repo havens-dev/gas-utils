@@ -1,4 +1,4 @@
-// sick of having to remember the crazy GAS syntax for replying with json. 
+
 // TODO - Add other types of responses when they become necassary
 
 class GasResponse {
