@@ -1,3 +1,5 @@
+// sick of having to remember the crazy GAS syntax for a simple json response... 
+
 //TODO - Add 'PostParams' class that parses each parameter when built
 
 /**
